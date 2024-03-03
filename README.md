@@ -4,4 +4,4 @@ This is a mount for mounting the Cartographer https://cartographer3d.com/product
 
 6.5mm travel of the probe in height giving the function of ujusting the probe between normal and ultra high flow nozzels.
 
-![Voron Logo]([http://vorondesign.com/images/voron_design_logo.png](https://github.com/izanamisu/Stealthburner-Cartographer-Mount/blob/main/up3.png?raw=true)https://github.com/izanamisu/Stealthburner-Cartographer-Mount/blob/main/up3.png?raw=true)
+![Voron Logo](http://vorondesign.com/images/voron_design_logo.png)
