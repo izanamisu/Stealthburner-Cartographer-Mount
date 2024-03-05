@@ -3,7 +3,7 @@
 
 This is a mount for mounting the Cartographer https://cartographer3d.com/products/cartographer-probe-v3-with-input-shaping-standard-both-can-usb on to a voron stealthburner https://github.com/VoronDesign/Voron-Stealthburner/tree/main.
 
-6.5mm travel of the probe in height giving the function of ujusting the probe between normal and ultra high flow nozzels.
+Roughly 6 mm travel of the probe in height giving the function of ujusting the probe between normal and ultra high flow nozzels.
 
 ![By Marcel Hofstra](https://github.com/izanamisu/Stealthburner-Cartographer-Mount/blob/main/PICTURES/down4.png)
 ![By Marcel Hofstra](https://github.com/izanamisu/Stealthburner-Cartographer-Mount/blob/main/PICTURES/down.png)
