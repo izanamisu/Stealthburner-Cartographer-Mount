@@ -5,7 +5,7 @@ This is a mount for mounting the Cartographer https://cartographer3d.com/product
 
 6.5mm travel of the probe in height giving the function of ujusting the probe between normal and ultra high flow nozzels.
 
-![By Marcel Hofstra]([https://github.com/izanamisu/Stealthburner-Cartographer-Mount/blob/main/down.png](https://github.com/izanamisu/Stealthburner-Cartographer-Mount/blob/main/PICTURES/down.png?raw=true))
+![By Marcel Hofstra](https://github.com/izanamisu/Stealthburner-Cartographer-Mount/blob/main/PICTURES/down.png)
 
 
 
